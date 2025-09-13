@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\bin\Debug\net9.0\Day4.exe
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\bin\Debug\net9.0\Day4.deps.json
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\bin\Debug\net9.0\Day4.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\bin\Debug\net9.0\Day4.dll
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\bin\Debug\net9.0\Day4.pdb
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\obj\Debug\net9.0\Day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\obj\Debug\net9.0\Day4.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\obj\Debug\net9.0\Day4.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\obj\Debug\net9.0\Day4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\obj\Debug\net9.0\Day4.sourcelink.json
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\obj\Debug\net9.0\Day4.dll
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\obj\Debug\net9.0\refint\Day4.dll
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\obj\Debug\net9.0\Day4.pdb
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\obj\Debug\net9.0\Day4.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Wipro-Training\Day4\obj\Debug\net9.0\ref\Day4.dll
